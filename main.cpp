@@ -202,17 +202,5 @@ int main()
 
             return 0;
         }
-
-        // print("Do you want to keep playing. y:yes n:no");
-
-        // string input;
-
-        // cin >> input;
-
-        // if (input == "y" or input == "yes")
-        //     play = 1;
-
-        // else
-        //     play = 0;
     }
 }
